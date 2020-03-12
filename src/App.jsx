@@ -7,3 +7,5 @@ class Tenting extends React.Component {
       return <div>Hi!</div>
     }
 }
+
+export default App
