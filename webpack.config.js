@@ -4,7 +4,8 @@ module.exports = {
   mode: "development",
   entry: './src/index.jsx',
   output: {
-    path: path.resolve(__dirname, 'dist')
+    path: path.resolve(__dirname, 'dist'),
+    filename: 'bundle.js'
   },
   module: {
     rules: [

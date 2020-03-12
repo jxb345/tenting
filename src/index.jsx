@@ -1,4 +1,3 @@
-import 'react';
 import 'react-dom';
 import App from './App.jsx';
 
