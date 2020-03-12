@@ -1,10 +1,9 @@
 import 'react';
 
 
-class Tenting extends React.Component {
-
+class App extends React.Component {
     render() {
-      return <div>Hi!</div>
+      return <div>Hi, Tenting</div>
     }
 }
 
